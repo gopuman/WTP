@@ -1,5 +1,5 @@
 # WTP
-Web Technologies Project for Third Semester PESU
+Web Technologies Project for Third Semester PESU.
 TEAM MEMBERS : Hrishikesh S.
                Gotham
                Arjun Rampal
