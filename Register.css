@@ -2,44 +2,43 @@ h3.first
 {
   margin-top: 200px;
   text-align: center;
-  font-family: impact;
+  font-family: Arial;
   padding-bottom: 50px;
 }
 h3.next
 {
   text-align: center;
-  font-family: impact;
+  font-family: Arial;
   padding-bottom: 20px;
   align-content: center;
 }
 fieldset
 {
-  border: 5px solid silver;
-  background-color: lightgrey;
-  border-style:double ridge;
-  border-radius: 1px;
-  background-image: url("");
-}
-legend
-{
-  color:midnightblue;
-  background-color: yellow;
-  font-size: 20px;
+  text-align: center;
+  margin: 30px;
+  background-color: white;
+  border: 1px solid black;
+  opacity: 0.6;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
+  width: 1000px;
+  font-size: 15px;
+  font-family: Georgia;
+  color: MidnightBlue;
 }
 body
 {
-   background-color: red;
+   background-image: url("car1.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
 }
-h3.submit
-{
-  margin-top: 5px;
-  padding: 20px;
-  border-radius: 3px;
-  font-size: 30px;
-  font-family: impact;
+input[type=button][type=submit]{
+   background-color: #4CAF50;
+   border: none;
+   color: white;
+   margin: 30px 480px;
+   text-decoration: underline;
 }
 a:visited
 {
   color: purple;
 }
-poin
